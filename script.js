@@ -20,7 +20,7 @@ menuLinks.forEach(link => {
         window.location.href = "information.html"; // Replace with your actual URLs
         break;
       case "events":
-        window.location.href = "your_events_url"; // Replace with your actual URL
+        window.location.href = "Events.html"; // Replace with your actual URL
         break;
       case "members":
         window.location.href = "your_members_url"; // Replace with your actual URL

@@ -141,5 +141,23 @@
     font-weight: bold; /* Make officer titles bolder */
     margin-bottom: 10px; /* Increase spacing between officers */
   }
+  .events-list {
+    list-style: none; /* Remove default bullet points */
+    padding: 0;
+    margin: 0;
+  }
   
+  .events-list li {
+    margin-bottom: 10px; /* Add spacing between events */
+  }
+  
+  .join-message {
+    text-align: center; /* Center the join message */
+    margin: 15px 0; /* Add space before and after message */
+    font-weight: bold; /* Emphasize the join message */
+    color: #333; /* Darker text color for better contrast */
+  }
+  .top {
+    margin-top: 50px;
+  }
   
